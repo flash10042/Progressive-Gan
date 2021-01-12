@@ -1,4 +1,8 @@
+old_train
+old_train_resized
 train
 train_resized
 progress
 .ipynb_checkpoints
+old_progress
+*.ipynb
